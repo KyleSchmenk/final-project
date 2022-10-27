@@ -20,8 +20,6 @@ h1 {
 h3 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 30px;
-    
-  
 }
 
 section p{
@@ -239,6 +237,7 @@ nav li a {
 
     /* Beginning of events CSS*/
 
+    
 section li {
     border-bottom: 2px solid dodgerblue;
 }
@@ -247,6 +246,10 @@ footer {
     background-color: #005A9C;
     color: white;
     text-align: center;
+}
+
+.bold {
+    font-weight: 600;
 }
 
 
